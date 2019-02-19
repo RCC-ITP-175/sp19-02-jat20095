@@ -1,0 +1,36 @@
+    1  ls
+    2  sort states.txt > states-sorted.txt
+    3  ls
+    4  vim states-sorted.txt
+    5  sed -i -e 's/a/z/g' states.txt > stztes.txt
+    6  ls
+    7  vim stztes.txt
+    8  ls
+    9  vim stztes.txt
+   10  ls
+   11  rm stztes.txt
+   12  sed -i 's/a/z/g' input.txt > stztes.txt
+   13  sed -i 's/a/z/g' states.txt > stztes.txt
+   14  ls
+   15  vim stztes.txt
+   16  vim stztes.txt
+   17  refresh
+   18  ls
+   19  vim stztes.txt
+   20  rm stztes.txt
+   21  sed 's/a/z/' states.txt > stztes.txt
+   22  cat stztes.txt
+   23  ls
+   24  vim ~/.bash_profile
+   25  ls
+   26  cat ~/.bach_profile
+   27  cat ~/.bash_profile
+   28  nano ~/.bash_profile
+   29  refresh
+   30  l
+   31  ls -alt
+   32  ls
+   33  cd .bash_profile
+   34  ~/.bash_profile
+   35  sudo vim ~/.bash_profile
+   36  history > history.txt
